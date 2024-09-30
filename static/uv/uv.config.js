@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/static/azul/',
-    bare:'https://skibzy.global.ssl.fastly.net/bear/',
+    bare:'https://pabare.slackersinc.net/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/static/uv/uv.handler.js',
