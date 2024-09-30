@@ -5,6 +5,7 @@
 
 ## Deployments
 - This can deployed to many static services, such as Vercel or Netlify!
+
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/Azuls1/NGGBypasser)
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Azuls1/NGGBypasser)
 
